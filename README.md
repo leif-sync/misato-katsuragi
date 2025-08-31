@@ -1,5 +1,7 @@
 # Misato Katsuragi Fan Page 💜
 
+![Captura de pantalla](/page.webp)
+
 Este es un proyecto *frontend* pequeño y estático dedicado a Misato Katsuragi de la serie **Neon Genesis Evangelion**. El objetivo es un diseño minimalista, centrado en la figura del personaje.
 
 ## Características
