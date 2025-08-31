@@ -43,4 +43,4 @@ Para ejecutar y trabajar en el proyecto localmente, sigue estos pasos:
 Si encuentras algún error o quieres sugerir una mejora, ¡no dudes en abrir un *issue* o enviar un *pull request*!
 
 ---
-Creado con ❤️ por @leif-sync
+Creado con ❤️ por [@leif-sync](https://github.com/leif-sync)
