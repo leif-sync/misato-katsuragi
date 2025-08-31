@@ -1,36 +1,46 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Misato Katsuragi Fan Page 💜
 
-## Getting Started
+Este es un proyecto *frontend* pequeño y estático dedicado a Misato Katsuragi de la serie **Neon Genesis Evangelion**. El objetivo es un diseño minimalista, centrado en la figura del personaje.
 
-First, run the development server:
+## Características
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+* **Información Esencial:** Una sección concisa de `about` con detalles clave sobre el personaje.
+* **Diseño Responsivo:** La interfaz se adapta perfectamente a diferentes tamaños de pantalla, desde móviles hasta escritorios.
+* **Soporte Multilenguaje:** El contenido está disponible en **inglés y español**.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Tecnologías Utilizadas
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+* **Next.js:** La base del proyecto, configurado para exportación estática.
+* **TypeScript:** Para un código más robusto y con tipado estricto.
+* **Tailwind CSS:** Para un desarrollo rápido y un diseño limpio y moderno.
+* **i18n (Internacionalización):** Un sistema de traducción propio, optimizado para la exportación estática de Next.js.
+* **Componente de Imagen (Librería Externa):** Permite la optimización de imágenes en tiempo de compilación para una carga ultrarrápida.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## Cómo Usar
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Este proyecto está diseñado para ser una **página estática**. Para ver la versión final, sigue estos pasos:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. Clona el repositorio.
+2. Instala las dependencias: `npm install`
+3. Genera la versión estática: `npm run build`
+4. Lanza el servidor: `npm run start`
 
-## Deploy on Vercel
+Para ejecutar y trabajar en el proyecto localmente, sigue estos pasos:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Clona el repositorio.
+2. Instala las dependencias: `npm install`
+3. Ejecuta el servidor de desarrollo: `npm run dev`
+4. Para generar la versión estática final: `npm run build`
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## Contribuciones
+
+Si encuentras algún error o quieres sugerir una mejora, ¡no dudes en abrir un *issue* o enviar un *pull request*!
+
+---
+Creado con ❤️ por @leif-sync
